@@ -4,9 +4,10 @@
 ### Contact Info
 
 Location: **Minsk, Belarus**
+
 Phone: **+375 (29) 222 94 02**
 
-[Email](belshina25@gmail.com) [LinkedIn](https://www.linkedin.com/in/alexkovalevich27/) [GitHub](https://github.com/Alexey-Kovalevich)
+**[Email](belshina25@gmail.com)** **[LinkedIn](https://www.linkedin.com/in/alexkovalevich27/)** **[GitHub](https://github.com/Alexey-Kovalevich)**
 
 
 ### Summary
@@ -16,13 +17,18 @@ My main goal is to become a front-end developer. I work as a Web and UX designer
 
 ### Skills
 
-Tech: *HTML*, *CSS*, *JS basics*
-Tools: *Visual Studio Code*, *Figma*, *Sketch*, *Principle*, *Zeplin*, *Adobe Photoshop*, *Adobe Illustrator*, *Adobe After Effects*, *Webflow*
+#### Tech:
+
+*HTML*, *CSS*, *JS basics*
+
+#### Tools:
+
+*Visual Studio Code*, *Figma*, *Sketch*, *Principle*, *Zeplin*, *Adobe Photoshop*, *Adobe Illustrator*, *Adobe After Effects*, *Webflow*
 
 
 ### Code Examples
 
-[GitHub](https://github.com/Alexey-Kovalevich)
+**[GitHub Page](https://github.com/Alexey-Kovalevich)**
 
 
 ### Experience
@@ -34,13 +40,13 @@ I passed some intensives from Glo Academy learning HTML, CSS & JS.
 
 ### Education
 
-[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)
+Self-education of **[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)**
 
-Studying [https://learn.javascript.ru/](learn.javascript.ru) and [code.mu](http://code.mu/ru/javascript/book/prime/)
+Studying **[learn.javascript.ru](https://learn.javascript.ru/)** and **[code.mu](http://code.mu/ru/javascript/book/prime/)**
 
-Watching [CS50’s Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+Watching **[CS50’s Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)**
 
 
 ### English level is B1
 
-According EPAM Training.by
+According EPAM training.by
