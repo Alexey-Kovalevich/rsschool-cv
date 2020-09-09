@@ -28,7 +28,7 @@ Tools: *Visual Studio Code*, *Figma*, *Sketch*, *Principle*, *Zeplin*, *Adobe Ph
 
 I haven't experience like FrontEnd Developer yet, but I have 2-year experience working like Web/UX Designer.
 
-I passed some intensives from Glo Academy learning HTML, CSS & JS. There were educational works but pretty interesting.
+I passed some intensives from Glo Academy learning HTML, CSS & JS.
 
 
 ###Education
