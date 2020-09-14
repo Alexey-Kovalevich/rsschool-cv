@@ -35,7 +35,7 @@ My main goal is to become a front-end developer. I work as a Web and UX designer
 
 I haven't experience like FrontEnd Developer yet, but I have 2-year experience working like Web/UX Designer.
 
-I passed some intensives from Glo Academy learning HTML, CSS & JS.
+I passed some intensives from Glo Academy learning HTML, CSS & JS. 
 
 
 ### Education
