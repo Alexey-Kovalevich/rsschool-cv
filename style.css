@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 20px auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.h1__headline {
+    margin-left: 60px;
+    font-size: 64px;
+    color: #084d58;
+}
+
+.mail {
+    font-weight: 700;
+    color: #3866cc;
+    text-decoration: none;
+    transition: color .1s linear;
+}
+
+.mail:hover {
+    text-decoration: underline;
+    color: #4880fb;
+    transition: color .1s linear;
+}
+
+.social {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 5px 0 0;
+    font-weight: 700;
+    color: #36da77;
+    transition: color .1s linear;
+}
+
+.social:hover {
+    text-decoration: underline;
+    color: #149849;
+    transition: color .1s linear;
+}
+
+.summary {
+    margin: 40px 0;
+}
+
+.normal__text {
+    font-size: 22px;
+    line-height: 1.5;
+}
+
+.h2__headline {
+    font-size: 36px;
+    color: #084d58;
+    margin-bottom: 10px;
+}
+
+.h3__headline {
+    font-size:16px;
+    color: #b3b3b3;
+    text-transform: uppercase;
+    margin: 5px 0;
+}
+
+.skills__description {
+    font-style: italic;
+    font-weight: 400;
+}
