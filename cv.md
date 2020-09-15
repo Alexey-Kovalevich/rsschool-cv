@@ -35,12 +35,12 @@ My main goal is to become a front-end developer. I work as a Web and UX designer
 
 I haven't experience like FrontEnd Developer yet, but I have 2-year experience working like Web/UX Designer.
 
-I passed some intensives from Glo Academy learning HTML, CSS & JS.
+I passed some intensives from Glo Academy learning HTML, CSS & JS. 
 
 
 ### Education
 
-Self-education of **[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)**
+Self-education on **[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)**
 
 Studying **[learn.javascript.ru](https://learn.javascript.ru/)** and **[code.mu](http://code.mu/ru/javascript/book/prime/)**
 
