@@ -13,7 +13,7 @@ h1, h2, h3, p {
 .container {
     width: 100%;
     max-width: 1024px;
-    margin: 20px auto;
+    margin: 35px auto;
 }
 
 .header {
@@ -23,6 +23,9 @@ h1, h2, h3, p {
 
 .image {
     border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
 }
 
 .h1__headline {
@@ -64,7 +67,7 @@ h1, h2, h3, p {
 }
 
 .normal__text {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.5;
 }
 

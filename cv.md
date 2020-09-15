@@ -40,7 +40,7 @@ I passed some intensives from Glo Academy learning HTML, CSS & JS.
 
 ### Education
 
-Self-education of **[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)**
+Self-education on **[HTMLAcademy](https://htmlacademy.ru/profile/id1249951)**
 
 Studying **[learn.javascript.ru](https://learn.javascript.ru/)** and **[code.mu](http://code.mu/ru/javascript/book/prime/)**
 
